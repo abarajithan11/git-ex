@@ -1,1 +1,4 @@
-*.jpg
+*
+
+!*.py
+!.gitignore
