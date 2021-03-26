@@ -1,8 +1,5 @@
 import cv2
 
-print("Hello world")
-print("More code")
-
 '''
 Add function
 '''
